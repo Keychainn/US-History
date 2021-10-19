@@ -79,7 +79,7 @@ The Constitution was not a Counter-Revolution that reversed the accomplishments 
 	- Why? A clash between two interests or powers would lead to dominance by one
 		- The winner would institutionalize their party and become tyrannical
 - ### Two Theories of How a Republic Succeeds:
-	- ##### ::A republic of virtuous people:: placing the good of the nation above personal interests would overcome selfishness.
+	- ##### **A republic of virtuous people** placing the good of the nation above personal interests would overcome selfishness.
 		- A "gentleman" (rich land owner) whose economic standing was assured could stand above personal interest and act in the nation's interest.
 		- They had just been through a situation where people sacrificed to overcome a greater power (American Revolution).
 		- Madison found this unrealistic - things would degenerate over time. There needed to be a structure to prevent gvt from falling apart
