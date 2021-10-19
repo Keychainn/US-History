@@ -73,16 +73,6 @@ The Constitution was not a Counter-Revolution that reversed the accomplishments 
 ## Deals, Not Ideals
 ## Aim: Understand the politics of compromise in the American System of government
 
-DN: The 1619 Project declared "Our deomcracy's founding ideals were false when they were written." Is this fair?
-(1619 Project is project by NYT)
-
-This is not fair, as many ideals that inspired our democracy were preserved - e.g. everyone has representation and rights such as freedom to protest and no quartering.
-However, only land-owning white men could vote, there was still slavery, etc.
-
----
-[[10.18 The Republican Solution#The problem of Tyranny and consent|10.18 - The problem with Tyranny (and consent)]]
-- [ ] Add Federalism Slide
-
 ### Reasoning out the Politics of a Republic
 - ##### Prior Republics had been small and homogenous
 	- Common Knowledge held that they had to be
